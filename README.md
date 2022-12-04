@@ -7,7 +7,7 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 ## Screenshots
-![Alt text](https://ibb.co/kKd8XWd "Home Page")
+![Alt text](https://i.ibb.co/D4qCQSq/2022-12-04-20-20.png "Home Page")
 
 ## Features
 - Grap data from API 
